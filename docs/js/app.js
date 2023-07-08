@@ -19,37 +19,37 @@ let products = [
     {
         id: 1,
         name: 'BASUKANG',
-        image: '1.PNG',
+        image: '1.png',
         price: 25000
     },
     {
         id: 2,
         name: 'TEKANGKANG',
-        image: '2.PNG',
+        image: '2.png',
         price: 20000
     },
     {
         id: 3,
         name: 'KANLATANG',
-        image: '3.PNG',
+        image: '3.png',
         price: 35000
     },
     {
         id: 4,
         name: 'KESAMON',
-        image: '4.PNG',
+        image: '4.png',
         price: 25000
     },
     {
         id: 5,
         name: 'WOTILOR',
-        image: '5.PNG',
+        image: '5.png',
         price: 35000
     },
     {
         id: 6,
         name: 'TAYAMYAM',
-        image: '6.PNG',
+        image: '6.png',
         price: 50000
     },
 ];
